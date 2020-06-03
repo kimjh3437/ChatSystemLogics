@@ -1,0 +1,65 @@
+﻿<Properties StartupConfiguration="{8935E303-7865-451C-95D9-7D79F8CFB2ED}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WpfApp1/MainWindow.xaml.cs">
+    <Files>
+      <File FileName="WpfApp1/App.xaml.cs" Line="6" Column="30" />
+      <File FileName="WpfApp1/MainWindow.xaml.cs" Line="63" Column="10" />
+      <File FileName="SignalrServer/Startup.cs" Line="60" Column="16" />
+      <File FileName="WpfApp1/MainWindow.xaml" Line="1" Column="1" />
+      <File FileName="SignalrServer/Pages/_ViewImports.cshtml" />
+      <File FileName="SignalrServer/Pages/Error.cshtml" />
+      <File FileName="SignalrServer/Pages/_ViewStart.cshtml" />
+      <File FileName="SignalrServer/Pages/Index.cshtml" />
+      <File FileName="SignalrServer/Pages/Privacy.cshtml" />
+      <File FileName="SignalrServer/ChatHub.cs" Line="9" Column="5" />
+      <File FileName="SignalrServer/Program.cs" Line="16" Column="10" />
+      <File FileName="SignalrServer/appsettings.json" />
+      <File FileName="ChatApp/ChatApp.MobileAppService/Startup.cs" Line="49" Column="38" />
+      <File FileName="ChatApp/ChatApp.MobileAppService/Program.cs" />
+      <File FileName="ChatApp/ChatApp.MobileAppService/ChatHub.cs" />
+      <File FileName="ChatApp/ChatApp.MobileAppService/appsettings.json" />
+      <File FileName="ChatApp/ChatApp.MobileAppService/Controllers/ItemController.cs" />
+      <File FileName="ChatApp/ChatApp/AssemblyInfo.cs" Line="3" Column="12" />
+      <File FileName="ChatApp/ChatApp.iOS/Main.cs" Line="1" Column="1" />
+      <File FileName="WpfApp1/App.xaml" Line="1" Column="1" />
+      <File FileName="SignalrServer/wwwroot/favicon.ico" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ChatApp" expanded="True">
+            <Node name="ChatApp" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+            <Node name="ChatApp.Android" expanded="True" />
+            <Node name="ChatApp.iOS" expanded="True" />
+            <Node name="ChatApp.MobileAppService" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+            <Node name="SignalrServer" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="wwwroot" expanded="True">
+                <Node name="lib" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="WpfApp1" expanded="True">
+              <Node name="MainWindow.xaml" expanded="True">
+                <Node name="MainWindow.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ChatApp.Android PreferredExecutionTarget="Android.realdev" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

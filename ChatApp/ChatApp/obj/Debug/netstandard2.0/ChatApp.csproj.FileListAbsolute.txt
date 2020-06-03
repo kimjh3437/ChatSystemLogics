@@ -1,0 +1,4 @@
+/Users/gabekim/Desktop/tetsetrer/ChatApp/ChatApp/ChatApp/obj/Debug/netstandard2.0/ChatApp.csprojAssemblyReference.cache
+/Users/gabekim/Desktop/tetsetrer/ChatApp/ChatApp/ChatApp/obj/Debug/netstandard2.0/ChatApp.csproj.CoreCompileInputs.cache
+/Users/gabekim/Desktop/tetsetrer/ChatApp/ChatApp/ChatApp/obj/Debug/netstandard2.0/ChatApp.AssemblyInfoInputs.cache
+/Users/gabekim/Desktop/tetsetrer/ChatApp/ChatApp/ChatApp/obj/Debug/netstandard2.0/ChatApp.AssemblyInfo.cs

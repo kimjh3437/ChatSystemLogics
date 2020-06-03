@@ -1,0 +1,32 @@
+D:/Projects/Xamarin/Signalr Core/ChatApp/ChatApp/ChatApp.MobileAppService/bin/Debug/netcoreapp2.1/ChatApp.MobileAppService.deps.json
+D:/Projects/Xamarin/Signalr Core/ChatApp/ChatApp/ChatApp.MobileAppService/bin/Debug/netcoreapp2.1/ChatApp.MobileAppService.runtimeconfig.json
+D:/Projects/Xamarin/Signalr Core/ChatApp/ChatApp/ChatApp.MobileAppService/bin/Debug/netcoreapp2.1/ChatApp.MobileAppService.runtimeconfig.dev.json
+D:/Projects/Xamarin/Signalr Core/ChatApp/ChatApp/ChatApp.MobileAppService/bin/Debug/netcoreapp2.1/ChatApp.MobileAppService.dll
+D:/Projects/Xamarin/Signalr Core/ChatApp/ChatApp/ChatApp.MobileAppService/bin/Debug/netcoreapp2.1/ChatApp.MobileAppService.pdb
+D:/Projects/Xamarin/Signalr Core/ChatApp/ChatApp/ChatApp.MobileAppService/obj/Debug/netcoreapp2.1/ChatApp.MobileAppService.csprojAssemblyReference.cache
+D:/Projects/Xamarin/Signalr Core/ChatApp/ChatApp/ChatApp.MobileAppService/obj/Debug/netcoreapp2.1/ChatApp.MobileAppService.csproj.CoreCompileInputs.cache
+D:/Projects/Xamarin/Signalr Core/ChatApp/ChatApp/ChatApp.MobileAppService/obj/Debug/netcoreapp2.1/ChatApp.MobileAppService.RazorAssemblyInfo.cache
+D:/Projects/Xamarin/Signalr Core/ChatApp/ChatApp/ChatApp.MobileAppService/obj/Debug/netcoreapp2.1/ChatApp.MobileAppService.RazorAssemblyInfo.cs
+D:/Projects/Xamarin/Signalr Core/ChatApp/ChatApp/ChatApp.MobileAppService/obj/Debug/netcoreapp2.1/ChatApp.MobileAppService.AssemblyInfoInputs.cache
+D:/Projects/Xamarin/Signalr Core/ChatApp/ChatApp/ChatApp.MobileAppService/obj/Debug/netcoreapp2.1/ChatApp.MobileAppService.AssemblyInfo.cs
+D:/Projects/Xamarin/Signalr Core/ChatApp/ChatApp/ChatApp.MobileAppService/obj/Debug/netcoreapp2.1/ChatApp.MobileAppService.RazorTargetAssemblyInfo.cache
+D:/Projects/Xamarin/Signalr Core/ChatApp/ChatApp/ChatApp.MobileAppService/obj/Debug/netcoreapp2.1/ChatApp.MobileAppService.dll
+D:/Projects/Xamarin/Signalr Core/ChatApp/ChatApp/ChatApp.MobileAppService/obj/Debug/netcoreapp2.1/ChatApp.MobileAppService.pdb
+/Users/gabekim/Desktop/tetsetrer/ChatApp/ChatApp/ChatApp.MobileAppService/bin/Debug/netcoreapp2.1/appsettings.Development.json
+/Users/gabekim/Desktop/tetsetrer/ChatApp/ChatApp/ChatApp.MobileAppService/bin/Debug/netcoreapp2.1/appsettings.json
+/Users/gabekim/Desktop/tetsetrer/ChatApp/ChatApp/ChatApp.MobileAppService/bin/Debug/netcoreapp2.1/Properties/launchSettings.json
+/Users/gabekim/Desktop/tetsetrer/ChatApp/ChatApp/ChatApp.MobileAppService/bin/Debug/netcoreapp2.1/ChatApp.MobileAppService.deps.json
+/Users/gabekim/Desktop/tetsetrer/ChatApp/ChatApp/ChatApp.MobileAppService/bin/Debug/netcoreapp2.1/ChatApp.MobileAppService.runtimeconfig.json
+/Users/gabekim/Desktop/tetsetrer/ChatApp/ChatApp/ChatApp.MobileAppService/bin/Debug/netcoreapp2.1/ChatApp.MobileAppService.runtimeconfig.dev.json
+/Users/gabekim/Desktop/tetsetrer/ChatApp/ChatApp/ChatApp.MobileAppService/bin/Debug/netcoreapp2.1/ChatApp.MobileAppService.dll
+/Users/gabekim/Desktop/tetsetrer/ChatApp/ChatApp/ChatApp.MobileAppService/bin/Debug/netcoreapp2.1/ChatApp.MobileAppService.pdb
+/Users/gabekim/Desktop/tetsetrer/ChatApp/ChatApp/ChatApp.MobileAppService/obj/Debug/netcoreapp2.1/ChatApp.MobileAppService.csprojAssemblyReference.cache
+/Users/gabekim/Desktop/tetsetrer/ChatApp/ChatApp/ChatApp.MobileAppService/obj/Debug/netcoreapp2.1/ChatApp.MobileAppService.csproj.CoreCompileInputs.cache
+/Users/gabekim/Desktop/tetsetrer/ChatApp/ChatApp/ChatApp.MobileAppService/obj/Debug/netcoreapp2.1/ChatApp.MobileAppService.RazorAssemblyInfo.cache
+/Users/gabekim/Desktop/tetsetrer/ChatApp/ChatApp/ChatApp.MobileAppService/obj/Debug/netcoreapp2.1/ChatApp.MobileAppService.RazorAssemblyInfo.cs
+/Users/gabekim/Desktop/tetsetrer/ChatApp/ChatApp/ChatApp.MobileAppService/obj/Debug/netcoreapp2.1/ChatApp.MobileAppService.AssemblyInfoInputs.cache
+/Users/gabekim/Desktop/tetsetrer/ChatApp/ChatApp/ChatApp.MobileAppService/obj/Debug/netcoreapp2.1/ChatApp.MobileAppService.AssemblyInfo.cs
+/Users/gabekim/Desktop/tetsetrer/ChatApp/ChatApp/ChatApp.MobileAppService/obj/Debug/netcoreapp2.1/ChatApp.MobileAppService.RazorTargetAssemblyInfo.cache
+/Users/gabekim/Desktop/tetsetrer/ChatApp/ChatApp/ChatApp.MobileAppService/obj/Debug/netcoreapp2.1/ChatApp.MobileAppService.dll
+/Users/gabekim/Desktop/tetsetrer/ChatApp/ChatApp/ChatApp.MobileAppService/obj/Debug/netcoreapp2.1/ChatApp.MobileAppService.pdb
+/Users/gabekim/Desktop/tetsetrer/ChatApp/ChatApp/ChatApp.MobileAppService/obj/Debug/netcoreapp2.1/ChatApp.MobileAppService.genruntimeconfig.cache

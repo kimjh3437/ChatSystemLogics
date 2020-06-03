@@ -1,0 +1,77 @@
+﻿<Properties StartupConfiguration="{B3C33C71-0D7D-4265-A71D-3DBE0C3DEE95}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WpfApp1/MainWindow.xaml.cs">
+    <Files>
+      <File FileName="WpfApp1/App.xaml.cs" Line="6" Column="30" />
+      <File FileName="WpfApp1/MainWindow.xaml.cs" Line="51" Column="50" />
+      <File FileName="SignalrServer/Startup.cs" />
+      <File FileName="WpfApp1/MainWindow.xaml" Line="18" Column="40" />
+      <File FileName="SignalrServer/Pages/_ViewImports.cshtml" />
+      <File FileName="SignalrServer/Pages/Error.cshtml" />
+      <File FileName="SignalrServer/Pages/_ViewStart.cshtml" />
+      <File FileName="SignalrServer/Pages/Index.cshtml" />
+      <File FileName="SignalrServer/Pages/Privacy.cshtml" />
+      <File FileName="SignalrServer/ChatHub.cs" />
+      <File FileName="SignalrServer/Program.cs" />
+      <File FileName="SignalrServer/appsettings.json" />
+      <File FileName="ChatApp/ChatApp.MobileAppService/Startup.cs" />
+      <File FileName="ChatApp/ChatApp.MobileAppService/Program.cs" />
+      <File FileName="ChatApp/ChatApp.MobileAppService/ChatHub.cs" />
+      <File FileName="ChatApp/ChatApp.MobileAppService/appsettings.json" />
+      <File FileName="ChatApp/ChatApp.MobileAppService/Controllers/ItemController.cs" />
+      <File FileName="ChatApp/ChatApp/AssemblyInfo.cs" />
+      <File FileName="ChatApp/ChatApp.iOS/Main.cs" Line="1" Column="1" />
+      <File FileName="WpfApp1/App.xaml" Line="1" Column="1" />
+      <File FileName="SignalrServer/SignalrServer.csproj" Line="6" Column="19" />
+      <File FileName="ChatApp/ChatApp.MobileAppService/ChatApp.MobileAppService.csproj" />
+      <File FileName="SignalrServer/wwwroot/js/site.js" Line="1" Column="1" />
+      <File FileName="ChatApp/ChatApp.iOS/AppDelegate.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ChatApp" expanded="True">
+            <Node name="ChatApp" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True" />
+            </Node>
+            <Node name="ChatApp.Android" expanded="True" />
+            <Node name="ChatApp.iOS" expanded="True" />
+            <Node name="ChatApp.MobileAppService" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+            <Node name="SignalrServer" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Pages" expanded="True" />
+            </Node>
+            <Node name="WpfApp1" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainWindow.xaml" expanded="True">
+                <Node name="MainWindow.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ChatApp.Android PreferredExecutionTarget="Android.realdev" />
+  <MonoDevelop.Ide.ItemProperties.SignalrServer PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

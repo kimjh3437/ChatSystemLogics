@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/gabekim/Desktop/tetsetrer/ChatApp/ChatApp/ChatApp.MobileAppService/ChatApp.MobileAppService.csproj": {}
+  },
+  "projects": {
+    "/Users/gabekim/Desktop/tetsetrer/ChatApp/ChatApp/ChatApp.MobileAppService/ChatApp.MobileAppService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/gabekim/Desktop/tetsetrer/ChatApp/ChatApp/ChatApp.MobileAppService/ChatApp.MobileAppService.csproj",
+        "projectName": "ChatApp.MobileAppService",
+        "projectPath": "/Users/gabekim/Desktop/tetsetrer/ChatApp/ChatApp/ChatApp.MobileAppService/ChatApp.MobileAppService.csproj",
+        "packagesPath": "/Users/gabekim/.nuget/packages/",
+        "outputPath": "/Users/gabekim/Desktop/tetsetrer/ChatApp/ChatApp/ChatApp.MobileAppService/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/gabekim/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
